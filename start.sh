@@ -1,0 +1,1 @@
+vncserver :1 -geometry 720x1280 -dpi 100
